@@ -10,7 +10,7 @@ Used Tkinter to build the GUI of the Application.
 
 - Load data
 - Data preprocessing
-- Summary of the Dataset 
+- Summary of the dataset 
 - Three machine learning models for regression problems. 
 - Summary of the model. 
 
